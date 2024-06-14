@@ -1,0 +1,11 @@
+datasets
+evaluate
+transformers[sentencepiece]
+rouge_score
+accelerate
+pytextrank
+textstat
+numpy 
+rouge-score
+bert-score
+summac
