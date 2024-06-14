@@ -6,6 +6,7 @@ The data used for this TFG can be found in the following link: https://github.co
 - DataExploration.ipynb: our own exploratory data analysis conducted in a Google Colaboratory notebook
 
 ## Training
+- requirements.txt: the libraries needed to execute the trainings 
 - Bart_finetuning_TrainerAPI.ipynb: this notebook contains the code to train [Abstract], [Whole text] and [Whole text no refs] models
 
 ## Evaluation
