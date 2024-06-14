@@ -1,5 +1,7 @@
 # LaySummarization_TFG
 
+This GitHub repo has been created to store all the code and related resources used throughout my final thesis. Here, you will find the scripts, data processing tools, and documentation necessary to replicate the experiments and analyses described in my thesis. Below you can find the explanation of the repository structure.
+
 ## Dataset
 
 The data used for this TFG can be found in the following link: https://github.com/TGoldsack1/Corpora_for_Lay_Summarisation 
